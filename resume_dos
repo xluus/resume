@@ -146,7 +146,19 @@
 % $|$ \href{https://github.com/xluus}{\underline{github.com/in/xluus}}
 \end{center}
 
-
+%
+%-----------Additional Information-----------
+% \section{Additional Information}
+\section{Certifications}
+\begin{itemize}[leftmargin=0.15in, label={}]
+\small{\item{
+% \textbf{Certifications}{: Certified Medical Dosimetrist (CMD) in Sep. 2023} \\
+% \textbf{Certifications}{:  Lean Six Sigma Green Belt Certification in 2016} \\
+Certified Medical Dosimetrist (CMD) since Sep. 2023 \\
+% Lean Six Sigma Green Belt Certification since 2016 \\
+% \textbf{Languages}{: Python, C} \\
+}}
+\end{itemize}
 
 %-----------EXPERIENCE-----------
 \section{Experience}
@@ -155,13 +167,12 @@
 {University of Miami - Sylvester Comprehensive Cancer Center} {Miami, FL}
 {Medical Dosimetrist}  {Oct. 2024 - Present}
 \resumeItemListStart
-\resumeItem{Planned with CSI, HyperArc SRS, Ethos adaptive, Hypersight, SBRT, 3D, and IMRT/VMAT}
-\resumeItem{Planned across multiple machine platforms, including Truebeam, Ethos, and Edge}
-\resumeItem{Performed PET/CT, 4D CT, and MRI image registration with MIM and Eclipse}
-\resumeItem{Served as a lead dosimetrist and a trainer in Ethos adaptive planning}
-\resumeItem{Instructed physicist students and dosimetry students in treatment planning, providing hands-on training}
-\resumeItem{Planned a variety of clinical trial cases with accuracy and adherence to protocol}
-\resumeItem{Gained foundational knowledge in proton therapy theory}
+\resumeItem{Specialized in SBRT, IMRT/VMAT, adaptive radiation therapy (ART), CSI, HyperArc SRS,  and 3D CRT.}
+\resumeItem{Performed PET/CT, 4D CT, and MRI image fusion/registration using MIM and Varian Eclipse for precise contouring of targets and OARs}
+\resumeItem{Served as lead dosimetrist for Ethos adaptive workflows; trained dosimetry and medical physics students}
+\resumeItem{Planned treatments across multiple platforms (Ethos, Edge, TrueBeam)}
+\resumeItem{Designed plans for clinical trial patients with strict protocol adherence}
+\resumeItem{Developed foundational knowledge in proton therapy planning theory }
 \resumeItemListEnd
 
 \resumeSubheadingMultiRole
@@ -171,22 +182,20 @@
 \resumeRoleEntry
 {Medical Dosimetrist Intern}{Sep. 2022 -- Jan. 2023}
 \resumeItemListStart
-\resumeItem{Planned electron, WBRT-HA, static IMRT, VMAT, 3D, FiF, SBRT, SRS, and RPM}
-\resumeItem{Planned cases in ARIA using TrueBeam, Trilogy, and Novalis, with QA tools including EzFluence, ClearCalc, RadCalc, and ClearCheck}
-\resumeItem{Performed PET/CT, 4D CT, and MRI image registration with Velocity and Eclipse}
-\resumeItem{Secured a full-time position (1 of 4 interns selected) at AdventHealth upon successful completion of internship}
-\resumeItem{Completed assigned tasks in half the time of peers during internship, demonstrating exceptional efficiency}
+\resumeItem{Created treatment plans for electrons, field-in-field, static IMRT, VMAT, 3D, SBRT, SRS, and WBRT-HA}
+\resumeItem{Executed multimodality image registration (PET/CT, 4D CT, and MRI) using Velocity and Aria}
+\resumeItem{Planned cases across multiple machine platforms (TrueBeam, Novalis, Trilogy)}
+\resumeItem{Applied tools (EzFluence, ClearCalc, RadCalc, ClearCheck) to verify dosimetric accuracy.}
+\resumeItem{Earned full-time offer from internship (1 of 4 interns selected); Completed internship in half the standard time.}
 \resumeItemListEnd
 
-\resumeSubheadingMultiRole
+\resumeSubheading
 {Nokia}{Hangzhou, China}
-\resumeRoleEntry
-{Senior Software Automation Engineer}{Sep. 2015 - Oct. 2017}
-\resumeRoleEntry
-{Software Automation Engineer}{May. 2011 - Aug. 2015}
+{Senior Software Engineer}{May. 2011 - Oct. 2017}
 \resumeItemListStart
-\resumeItem{Designed and led the development of an innovative automation system that reduced reliance on costly test equipment, resulting in annual cost savings of €230,000, awarded with the Lean Six Sigma Green Belt Certification}
-\resumeItem{Developed the automation scripts of continuous integration, unit testing, and feature validation}
+\resumeItem{Designed and developed an innovative automation system that reduced reliance on costly test equipment, resulting in annual cost savings of 230,000 euro}
+% \resumeItem{Designed and developed an innovative automation system that reduced reliance on costly test equipment, resulting in annual cost savings of 230,000 euro}
+% \resumeItem{Developed the automation scripts of continuous integration, unit testing, and feature validation}
 % \resumeItem{Developed the telecom cloud platform and API based on Openstack/Linux platform}
 \resumeItemListEnd
 
@@ -194,7 +203,7 @@
 {Alibaba} {Hangzhou, China}
 {Software Engineer}  {Jul. 2010 - Apr. 2011}
 \resumeItemListStart
-\resumeItem{Performed unit and functional testing on website components deployed in a Linux environment}
+\resumeItem{Conducted software testing, debugging, and QA for high-traffic web applications in a Linux environment}
 \resumeItemListEnd
 
 % \resumeSubheading
@@ -228,7 +237,7 @@
 \resumeProjectHeading
 {\href{https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD\&filename=2010234506.nh}{\underline{\textbf{CoMP}}} $|$ \emph{UESTC}}{Fall 2009 - Spring 2010}
 \resumeItemListStart
-\resumeItem{Designed a new Multi-User MIMO Scheme in Coordinated Multiple Point (CoMP) with adaptive ICIC strategy}
+\resumeItem{Developed adaptive ICIC strategy for Coordinated Multi-Point (CoMP)}
 \resumeItemListEnd
 \resumeProjectHeading
 {{\textbf{Deep Space}} $|$ \emph{UESTC, National 863 Program}}{Mar. 2008 - Jul. 2008}
@@ -253,24 +262,13 @@
 \resumeItemListEnd
 \resumeSubHeadingListEnd
 
-
-%
-%-----------Additional Information-----------
-% \section{Additional Information}
-\section{Certifications}
-\begin{itemize}[leftmargin=0.15in, label={}]
-\small{\item{
-% \textbf{Certifications}{: Certified Medical Dosimetrist (CMD) in Sep. 2023} \\
-% \textbf{Certifications}{:  Lean Six Sigma Green Belt Certification in 2016} \\
-Certified Medical Dosimetrist (CMD) since Sep. 2023 \\
-Lean Six Sigma Green Belt Certification since 2016 \\
-% \textbf{Languages}{: Python, C} \\
-}}
-\end{itemize}
-
-
 %-------------------------------------------
 \end{document}
+
+
+
+
+
 
 
 
